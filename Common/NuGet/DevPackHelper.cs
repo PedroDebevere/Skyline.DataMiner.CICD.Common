@@ -10,8 +10,6 @@
     using global::NuGet.Protocol;
     using global::NuGet.Protocol.Core.Types;
 
-    using Newtonsoft.Json.Linq;
-
     /// <summary>
     /// Useful properties and methods related to DevPacks.
     /// </summary>
